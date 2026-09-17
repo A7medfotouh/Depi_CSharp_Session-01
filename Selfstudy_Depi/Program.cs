@@ -107,7 +107,7 @@ namespace Selfstudy_Depi
 
             // Answer: 6 1
 
-            Console.WriteLine("Assignment 1");
+            
         }
     }
 
