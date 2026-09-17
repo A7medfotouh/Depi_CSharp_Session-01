@@ -2,7 +2,7 @@
 
 namespace Selfstudy_Depi
 {
-    internal class Program
+    internal class session02
     {
         static void Main(string[] args)
         {
