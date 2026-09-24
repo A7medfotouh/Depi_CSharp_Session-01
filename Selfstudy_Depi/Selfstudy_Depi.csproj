@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="session02.cs" />
+    <Compile Remove="session03.cs" />
+    <Compile Remove="session05.cs" />
+  </ItemGroup>
+
 </Project>
