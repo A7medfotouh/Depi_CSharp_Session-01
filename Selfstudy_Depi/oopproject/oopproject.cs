@@ -286,7 +286,7 @@ namespace oopproject
                     break;
             }
 
-            Exam.Subject = this;  
+            Exam.Subject = this;
             return Exam;
         }
     }
