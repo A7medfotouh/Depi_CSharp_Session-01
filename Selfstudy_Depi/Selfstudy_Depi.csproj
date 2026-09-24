@@ -11,6 +11,7 @@
     <Compile Remove="session02.cs" />
     <Compile Remove="session03.cs" />
     <Compile Remove="session05.cs" />
+    <Compile Remove="session06.cs" />
   </ItemGroup>
 
 </Project>
